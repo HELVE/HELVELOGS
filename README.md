@@ -4,9 +4,9 @@
 
 <a name="intro"></a> 
 # HELVE LOGS - Live Documentary Series
-Documenting processes and day to day life at Helve AVR high technology creative agency. The aim is to showcase creative methods and provide the concept of visually hacking the reality. 
+The aim of Helve Logs is to document the processes and day to day life at Helve AVR high technology creative agency. The aim is to showcase creative methods and provide the concept of visually hacking reality. 
 
-Content intended for widespread publication (all possible platforms, adjusted to specific conditions of a platform). Insert a list of pieces of content (optimal 150+ pieces of content a day?)
+Content intended for widespread publication (all essential social platforms, adjusted to specific conditions of a platform). Insert a list of pieces of content (optimal 150+ pieces of content a day?) divided by platform, type and actual body content settings.
 
 TRANSCRIBE ALL NOTES!
 
