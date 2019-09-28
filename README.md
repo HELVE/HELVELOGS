@@ -1,4 +1,4 @@
-![Project Banner](/assets/readme_visuals/vaco-banner.png)
+![Project Banner](/mixer-offline.png)
 
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
