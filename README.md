@@ -6,6 +6,8 @@
 # HELVE LOGS - Live Documentary Series
 Documenting processes and day to day life at Helve AVR high technology creative agency. The aim is to showcase creative methods and provide the concept of hacking reality.
 
+TRANSCRIBE ALL NOTES!
+
 ## Video intro for Instagram and vlogs [Helve Logs]
 
 Tracking, identity, privacy theme.
