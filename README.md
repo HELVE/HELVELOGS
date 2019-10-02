@@ -8,7 +8,7 @@ The aim of Helve Logs is to document the processes and day to day life at Helve 
 
 Content intended for widespread publication (all relevant social platforms, adjusted to specific conditions of a platform). Insert a list of pieces of content (optimal 150+ pieces of content a day?) divided by platform, type and actual body content settings. There is a shitload of data I wrote down.
 
-TRANSCRIBE ALL NOTES!
+**TRANSCRIBE ALL NOTES!**
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 
