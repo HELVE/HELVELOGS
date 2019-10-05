@@ -43,7 +43,9 @@ A third pops up from the left (white triangle) with Brief Title of the scene, Lo
 
 Overlay with a heart/like (depending on the platform) and arrow pointing below the video content.
 
-
+**Ideas**
+- sequence starts with a date "/// 2019" as if it was a flashback.
+- at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
