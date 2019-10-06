@@ -44,6 +44,7 @@ A third pops up from the left (white triangle) with Brief Title of the scene, Lo
 Overlay with a heart/like (depending on the platform) and arrow pointing below the video content.
 
 **Ideas**
+- vlogs fisheye/tracking vibe/broadcast/uplink established -- projects and narratives cinematic.
 - sequence starts with a date "/// 2019" as if it was a flashback.
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
