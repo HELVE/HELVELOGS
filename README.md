@@ -48,7 +48,7 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - sequence starts with a date "/// 2019" as if it was a flashback.
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
-- Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
+
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
