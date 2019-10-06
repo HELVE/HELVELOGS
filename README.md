@@ -47,6 +47,7 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - sequence starts with a date "/// 2019" as if it was a flashback.
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
+- sequence with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. Then we see teams setting up neons in various places around the globe. "It's time."
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
