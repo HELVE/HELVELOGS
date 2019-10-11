@@ -14,7 +14,7 @@ Content intended for widespread publication (all relevant social platforms, adju
 
 Tracking, identity, privacy theme.
 
-USE BINAURAL SOUNDS IN BG
+USE BINAURAL SOUNDS IN BG_
 
 The four known categories of frequency pattern include:
 
