@@ -61,3 +61,15 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 ## Notes
 
 Live Documentary Series / Live DOCUMENTATION?
+
+ANALYSIS OF SEB.SPC VIDS
+- usage of personal quotes / inspirational - life, career, path, visualization, friendships, relationships
+"what was taught to me over the time of my life was a very superficial approach, eat, sleep, die. rinse, repeat. mate, find happiness in others. get a job and stay at it. i couldn't find myself in others, couldn't find myself at the jobs. i drowned in multiplicity of pointless rules and lack of will to experiment. After years of struggling with it I realized I wasn't me anymore. Whatever "me" as at the time anyway. Let me tell you once you discover who you are, your strengths and weaknesses things become limitless, happiness becomes ingrained in the process and most importantly one stops chasing short-term dopamine triggers. don't fill your life with one-way loops, interact with the world, you won't regret it as honestly one cannot regret any experience however terrible it can be - from search comes awareness, from discovery comes confidence ".
+- timelapses of making of spaces (?)
+- swag shots
+- glitch
+- oneshot shorts (with logo and slashcollective glitch at the end
+- smooth stabilized for swag / shaky for vlogs
+- real life shots
+- location shots slow mo + logo
+- glitches delicate / changes of frame
