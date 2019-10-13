@@ -62,6 +62,8 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 
 Live Documentary Series / Live DOCUMENTATION?
 
+Seasons corresponding to certain projects. Helve AVR is the behind the scenes entity and an art venue in a way. Helve AVR is actual reality with a twist and different motivational vibe of being an agent/operative for an agency that wants to visually change the reality on a big scale.
+
 **ANALYSIS OF SEB.SPC VIDS**
 https://www.instagram.com/seb.spc/
 - usage of personal quotes / inspirational - life, career, path, visualization, friendships, relationships
