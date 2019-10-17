@@ -49,7 +49,6 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
 
-
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
 ![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
@@ -59,9 +58,9 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 + @mothnode
 
 ## Notes
-
+```
 Live Documentary Series / Live DOCUMENTATION?
-
+```
 Seasons corresponding to certain projects. Helve AVR is the behind the scenes entity and an art venue in a way. Helve AVR is actual reality with a twist and different motivational vibe of being an agent/operative for an agency that wants to visually change the reality on a big scale.
 
 - Helve AVR is a high technology creative agency wrapped in a rather mission-inducing vibe of global operations and secret missions. It is mainly reality and byproducts of operations but with a mental twist.
@@ -69,6 +68,7 @@ Seasons corresponding to certain projects. Helve AVR is the behind the scenes en
 - Hitech Crime is the fictional universe based on real emotions and tucking them away. More focus on the story and theme rather than the product as it is contained within.
 
 - Kannibal Wear is a clothing brand that encourages to 'cannibalize' other brands and modify everything yourself. Has real foundations but contains a more subtle fiction. More focus on the product rather than the story. 
+
 
 **ANALYSIS OF SEB.SPC VIDS**
 https://www.instagram.com/seb.spc/
