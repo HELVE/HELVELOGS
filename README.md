@@ -10,6 +10,9 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 
 **TRANSCRIBE ALL NOTES!**
 
+- lavaliers
+- 
+
 ## Video intro for Instagram and vlogs [Helve Logs]
 
 Tracking, identity, privacy theme.
