@@ -18,8 +18,9 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 
 Tracking, identity, privacy theme.
 
+```
 USE BINAURAL SOUNDS IN BG_
-
+```
 The four known categories of frequency pattern include:
 
 - Delta patterns: Binaural beats in the delta pattern are set at a frequency of between 0.1 and 4 Hz, which is associated with dreamless sleep.
