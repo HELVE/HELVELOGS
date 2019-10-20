@@ -18,6 +18,8 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 
 Cameras: 
 - timelapse camera (set it forget it)
+- phone fisheye camera (multipurpose) - on the go
+- 
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
