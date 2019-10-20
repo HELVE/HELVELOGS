@@ -8,6 +8,8 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 
 *Content intended for widespread publication (all relevant social platforms, adjusted to specific conditions of a platform). Insert a list of pieces of content (optimal 100+ pieces of content a day?) divided by platform, type and actual body content settings. There is a shitload of data I wrote down.*
 
+CONTENT / CONTEXT / INTENT
+
 **TRANSCRIBE ALL NOTES!**
 
 - lavaliers
