@@ -11,9 +11,11 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 **TRANSCRIBE ALL NOTES!**
 
 - lavaliers
-- 2 x mobile autonomous tracking setup (microdrones)
 - external shooter
-- 
+- 2 x mobile autonomous tracking setup
+- microcameras for specific shots
+- description timestamps (6:00... 7:21... 9:03 ending)
+
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
