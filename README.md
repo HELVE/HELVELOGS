@@ -16,6 +16,8 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 - microcameras for specific shots
 - description timestamps (6:00... 7:21... 9:03 ending)
 
+Cameras: 
+- timelapse camera (set it forget it)
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
