@@ -17,6 +17,7 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 - description timestamps (6:00... 7:21... 9:03 ending)
 - DJI Osmo Pocket for cinematics
 - 2 x various b-roll shot cameras (GoPro Micro / Set it forget it)
+- additional engagement triggers "tweet @mothnode that you made it to the end of the log!"
 
 Cameras: 
 - timelapse camera (set it forget it)
