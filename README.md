@@ -63,6 +63,7 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - sequence starts with a date "/// 2019" as if it was a flashback.
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
+- types of content based on the Dopamine Trails and the Directive Protocols lifecycle/lifeloop (Survival > Knowledge > Creativity > Communication > Attachment > Reset >)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
