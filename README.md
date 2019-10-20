@@ -18,11 +18,8 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 - DJI Osmo Pocket for cinematics
 - 2 x various b-roll shot cameras (GoPro Micro / Set it forget it)
 - additional engagement triggers "tweet @mothnode that you made it to the end of the log!"
-
-Cameras: 
 - timelapse camera (set it forget it)
 - phone fisheye camera (multipurpose) - on the go
-- 
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
