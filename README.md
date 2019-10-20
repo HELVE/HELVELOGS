@@ -15,6 +15,7 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 - 2 x mobile autonomous tracking setup
 - microcameras for specific shots
 - description timestamps (6:00... 7:21... 9:03 ending)
+- DJI Osmo Pocket for cinematics
 
 Cameras: 
 - timelapse camera (set it forget it)
