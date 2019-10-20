@@ -23,6 +23,8 @@ STORY > TECH > AUDIENCE
 - additional engagement triggers "tweet @mothnode that you made it to the end of the log!"
 - timelapse camera (set it forget it)
 - phone fisheye camera (multipurpose) - on the go
+- stream season (autumn/winter)
+- operations (ops) season (spring/summer)
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
