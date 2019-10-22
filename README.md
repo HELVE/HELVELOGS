@@ -34,6 +34,7 @@ STORY > TECH > AUDIENCE
 - Helve Logs title is Helve Logo with LOGS instead of OS or AVR
 - production advice: record a variety of angles, maximize your space - think how 1 solo location can look different. Separate the different shots of one space in post (constant new things to look at). Every 20-30 seconds of a project add something new to see. 3 min track = 6-9 different looks. Pacing of editing in relation to the song tempo + effects with intentions.
 - send music video to YCImaging on YT for a review and promo (259K subs).
+- podcast version "This is the Helve Logs audio experience" (robotic voice even?) (or mine?). Helve Logs transcribed into audio (host intro first? - "hello this is a recording of...").
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
