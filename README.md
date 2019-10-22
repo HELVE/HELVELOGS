@@ -21,7 +21,6 @@ Tracking, identity, privacy theme.
 USE BINAURAL SOUNDS IN BG_
 ```
 The four known categories of frequency pattern include:
-
 - Delta patterns: Binaural beats in the delta pattern are set at a frequency of between 0.1 and 4 Hz, which is associated with dreamless sleep.
 - Theta patterns: Binaural beats in the theta pattern are set at a frequency of between 4 and 8 Hz, which is associated with sleep in the rapid eye movement or REM phase, meditation, and creativity.
 - Alpha pattern: Binaural beats in the alpha pattern are set at a frequency of between 8 and 13 Hz, which may encourage relaxation.
