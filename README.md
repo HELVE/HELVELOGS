@@ -31,6 +31,7 @@ STORY > TECH > AUDIENCE
 - designed subtitles for instagram (3-5s hook, branding - logo, title (actionable advice), call to action - text)
 - little engagement at the middle of the clip - ping lower left corner (animated/nonanimated little heart or thumb)
 - helve hq and nomad frames glitch in at all times (not static)
+- Helve Logs title is Helve Logo with LOGS instead of OS or AVR
 - record a variety of angles
 -
 
