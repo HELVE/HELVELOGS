@@ -28,9 +28,8 @@ STORY > TECH > AUDIENCE
 - scene: general purpose scenes -> back alley, setting up gear, projections setup, music video intro, drone location shot, text appears as we rotate.
 - street + crowd
 - standing in the crowd in a techwear outfit (kannibal cameo)
-- record a variety of angles
 - designed subtitles for instagram (3-5s hook, branding - logo, title (actionable advice), call to action - text)
--
+- record a variety of angles
 -
 
 ## Video intro for Instagram and vlogs [Helve Logs]
