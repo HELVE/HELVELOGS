@@ -30,8 +30,6 @@ STORY > TECH > AUDIENCE
 - scene: general purpose scenes -> back alley, setting up gear, projections setup, music video intro, drone location shot, text appears as we rotate.
 - street + crowd
 - standing in the crowd in a techwear outfit (kannibal cameo)
--  
--
 -
 -
 -
