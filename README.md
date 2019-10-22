@@ -30,6 +30,7 @@ STORY > TECH > AUDIENCE
 - standing in the crowd in a techwear outfit (kannibal cameo)
 - designed subtitles for instagram (3-5s hook, branding - logo, title (actionable advice), call to action - text)
 - little engagement at the middle of the clip - ping lower left corner (animated/nonanimated little heart or thumb)
+- helve hq and nomad frames glitch in at all times (not static)
 - record a variety of angles
 -
 
