@@ -36,6 +36,8 @@ STORY > TECH > AUDIENCE
 - send music video to YCImaging on YT for a review and promo (259K subs).
 - podcast version "This is the Helve Logs audio experience" (robotic voice even?) (or mine?). Helve Logs transcribed into audio (host intro first? - "hello this is a recording of...").
 - Intro Quote "I mean it is time for you to start something, anything, however small or big. Dive into chaos, come out enlightened. Experimentation and discovery can be that simple." "This is Helve AVR and we're here to visually hack the world". "This is Helve AVR and we are here to change reality."
+- Closing Log Frame: "Hey you, thank you for watching! Be sure to check out other channels to discover more Helve AVR projects and dive into our reality". 
+- Post it notes with votes on story (#lowfihelvelogs)
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
