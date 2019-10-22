@@ -27,7 +27,7 @@ STORY > TECH > AUDIENCE
 - stream season (autumn/winter)
 - operations (ops) season (spring/summer)
 - scene: me standing with a black Helve flag on my back floating in the wind
--
+- scene: general purpose scenes -> back alley, setting up gear, projections setup, music video intro, drone location shot, text appears as we rotate.
 -
 -
 -
