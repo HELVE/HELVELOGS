@@ -7,10 +7,12 @@
 The overarching purpose of Helve Logs is to document the processes and day to day life at Helve AVR high technology creative agency. We aim to experiment with creative methods, showcase new technologies and promote the concept of 'visual hacking' of the reality.
 
 *Content intended for widespread publication (all relevant social platforms, adjusted to specific conditions of a platform). Insert a list of pieces of content (optimal 100+ pieces of content a day?) divided by platform, type and actual body content settings. There is a shitload of data I wrote down.*
+
 ```
 INTENT > CONTEXT > CONTENT
 STORY > TECH > AUDIENCE
 ```
+
 **TRANSCRIBE ALL NOTES!**
 - lavaliers
 - external shooter
