@@ -13,6 +13,7 @@ STORY > TECH > AUDIENCE
 ```
 **TRANSCRIBE ALL NOTES!**
 
+
 - lavaliers
 - external shooter
 - 2 x mobile autonomous tracking setup
