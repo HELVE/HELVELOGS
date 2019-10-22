@@ -14,32 +14,6 @@ STORY > TECH > AUDIENCE
 ```
 
 **TRANSCRIBE ALL NOTES!**
-- lavaliers
-- external shooter
-- 2 x mobile autonomous tracking setup
-- microcameras for specific shots
-- description timestamps (6:00... 7:21... 9:03 ending)
-- DJI Osmo Pocket for cinematics
-- 2 x various b-roll shot cameras (GoPro Micro / Set it forget it)
-- additional engagement triggers "tweet @mothnode that you made it to the end of the log!"
-- timelapse camera (set it forget it)
-- phone fisheye camera (multipurpose) - on the go
-- stream season (autumn/winter)
-- operations (ops) season (spring/summer)
-- scene: me standing with a black Helve flag on my back floating in the wind
-- scene: general purpose scenes -> back alley, setting up gear, projections setup, music video intro, drone location shot, text appears as we rotate.
-- street + crowd
-- standing in the crowd in a techwear outfit (kannibal cameo)
-- designed subtitles for instagram (3-5s hook, branding - logo, title (actionable advice), call to action - text)
-- little engagement at the middle of the clip - ping lower left corner (animated/nonanimated little heart or thumb)
-- helve hq and nomad frames glitch in at all times (not static)
-- Helve Logs title is Helve Logo with LOGS instead of OS or AVR
-- production advice: record a variety of angles, maximize your space - think how 1 solo location can look different. Separate the different shots of one space in post (constant new things to look at). Every 20-30 seconds of a project add something new to see. 3 min track = 6-9 different looks. Pacing of editing in relation to the song tempo + effects with intentions.
-- send music video to YCImaging on YT for a review and promo (259K subs).
-- podcast version "This is the Helve Logs audio experience" (robotic voice even?) (or mine?). Helve Logs transcribed into audio (host intro first? - "hello this is a recording of...").
-- Intro Quote "I mean it is time for you to start something, anything, however small or big. Dive into chaos, come out enlightened. Experimentation and discovery can be that simple." "This is Helve AVR and we're here to visually hack the world". "This is Helve AVR and we are here to change reality."
-- Closing Log Frame: "Hey you, thank you for watching! Be sure to check out other channels to discover more Helve AVR projects and dive into our reality". 
-- Post it notes with votes on story (#lowfihelvelogs)
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
@@ -79,6 +53,32 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - at the end of the video follow / sub / like variations glitch in (depending on the platform it is shared on).
 - all the docs are black and white (real life), while the experiences get colorful (especially actual project stuff).
 - types of content based on the Dopamine Trails and the Directive Protocols lifecycle/lifeloop (Survival > Knowledge > Creativity > Communication > Attachment > Reset >)
+- lavaliers
+- external shooter
+- 2 x mobile autonomous tracking setup
+- microcameras for specific shots
+- description timestamps (6:00... 7:21... 9:03 ending)
+- DJI Osmo Pocket for cinematics
+- 2 x various b-roll shot cameras (GoPro Micro / Set it forget it)
+- additional engagement triggers "tweet @mothnode that you made it to the end of the log!"
+- timelapse camera (set it forget it)
+- phone fisheye camera (multipurpose) - on the go
+- stream season (autumn/winter)
+- operations (ops) season (spring/summer)
+- scene: me standing with a black Helve flag on my back floating in the wind
+- scene: general purpose scenes -> back alley, setting up gear, projections setup, music video intro, drone location shot, text appears as we rotate.
+- street + crowd
+- standing in the crowd in a techwear outfit (kannibal cameo)
+- designed subtitles for instagram (3-5s hook, branding - logo, title (actionable advice), call to action - text)
+- little engagement at the middle of the clip - ping lower left corner (animated/nonanimated little heart or thumb)
+- helve hq and nomad frames glitch in at all times (not static)
+- Helve Logs title is Helve Logo with LOGS instead of OS or AVR
+- production advice: record a variety of angles, maximize your space - think how 1 solo location can look different. Separate the different shots of one space in post (constant new things to look at). Every 20-30 seconds of a project add something new to see. 3 min track = 6-9 different looks. Pacing of editing in relation to the song tempo + effects with intentions.
+- send music video to YCImaging on YT for a review and promo (259K subs).
+- podcast version "This is the Helve Logs audio experience" (robotic voice even?) (or mine?). Helve Logs transcribed into audio (host intro first? - "hello this is a recording of...").
+- Intro Quote "I mean it is time for you to start something, anything, however small or big. Dive into chaos, come out enlightened. Experimentation and discovery can be that simple." "This is Helve AVR and we're here to visually hack the world". "This is Helve AVR and we are here to change reality."
+- Closing Log Frame: "Hey you, thank you for watching! Be sure to check out other channels to discover more Helve AVR projects and dive into our reality". 
+- Post it notes with votes on story (#lowfihelvelogs)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
@@ -92,9 +92,9 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 ```
 Live Documentary Series / Live DOCUMENTATION?
 ```
-Seasons corresponding to certain projects. Helve AVR is the behind the scenes entity and an art venue in a way. Helve AVR is actual reality with a twist and different motivational vibe of being an agent/operative for an agency that wants to visually change the reality on a big scale.
+Seasons correspond to a sequence of projects. Helve AVR is the behind the scenes entity and an art venue in a way. Helve AVR is actual reality with a twist and different motivational vibe of being an agent/operative for an agency that wants to visually change the reality on a big scale.
 
-- Helve AVR is a high technology creative agency wrapped in a rather mission-inducing vibe of global operations and secret missions. It is mainly reality and byproducts of operations but with a mental twist.
+- Helve AVR is a high technology creative agency wrapped in a rather mission-inducing vibe of global operations and secret missions, visual takeover drops. It is mainly reality and a byproduct of operations but with a mental twist.
 
 - Hitech Crime is the fictional universe based on real emotions and tucking them away. More focus on the story and theme rather than the product as it is contained within.
 
