@@ -32,7 +32,7 @@ STORY > TECH > AUDIENCE
 - little engagement at the middle of the clip - ping lower left corner (animated/nonanimated little heart or thumb)
 - helve hq and nomad frames glitch in at all times (not static)
 - Helve Logs title is Helve Logo with LOGS instead of OS or AVR
-- production advice: record a variety of angles, maximize your space - think how 1 solo location can look different. Separate the different shots of one space in post (constant new things to look at). Every 20-30 seconds of a project add something new to see. 3 min track = 6-9 different looks.
+- production advice: record a variety of angles, maximize your space - think how 1 solo location can look different. Separate the different shots of one space in post (constant new things to look at). Every 20-30 seconds of a project add something new to see. 3 min track = 6-9 different looks. Pacing of editing in relation to the song tempo + effects with intentions.
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
