@@ -13,7 +13,9 @@ STORY > TECH > AUDIENCE
 ```
 
 INTENT: Document processes and day to day life at Helve AVR. Inspire people and study psychological engagement.
+
 CONTEXT: Budding creative agency. Starting from scratch. Underdog.
+
 CONTENT: Livestreams, peak into the processes. Help sessions?
 
 ## Video intro for Instagram and vlogs [Helve Logs]
