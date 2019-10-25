@@ -12,7 +12,6 @@ The overarching purpose of Helve Logs is to document the processes and day to da
 INTENT > CONTEXT > CONTENT
 STORY > TECH > AUDIENCE
 ```
-
 **TRANSCRIBE ALL NOTES!**
 
 ## Video intro for Instagram and vlogs [Helve Logs]
