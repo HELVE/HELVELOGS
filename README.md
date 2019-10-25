@@ -74,7 +74,7 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - Intro Quote "I mean it is time for you to start something, anything, however small or big. Dive into chaos, come out enlightened. Experimentation and discovery can be that simple." "This is Helve AVR and we're here to visually hack the world". "This is Helve AVR and we are here to change reality."
 - Closing Log Frame: "Hey you, thank you for watching! Be sure to check out other channels to discover more Helve AVR projects and dive into our reality". 
 - Post it notes with votes on story (#lowfihelvelogs)
-- Challenges of making 5 types posts in 5 minutes.
+- Challenges of making 5 types posts in 5 minutes (spread, relevance)
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
