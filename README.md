@@ -20,7 +20,7 @@ CONTENT: Endless creative projects. Livestreams, peak into the processes. Help s
 
 ## Mixer/Twitch/YouTube/Facebook Stream
 
-- 
+- frame done
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
