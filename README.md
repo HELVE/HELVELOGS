@@ -18,6 +18,10 @@ CONTEXT: Budding creative agency. Starting from scratch. Underdog.
 
 CONTENT: Endless creative projects. Livestreams, peak into the processes. Help sessions?
 
+## Mixer/Twitch/YouTube/Facebook Stream
+
+- 
+
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
 ```
