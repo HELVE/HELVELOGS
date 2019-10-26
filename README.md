@@ -115,4 +115,4 @@ https://www.instagram.com/seb.spc/
 - real life shots
 - location shots slow mo + logo
 - glitches delicate / changes of frame
-
+-
