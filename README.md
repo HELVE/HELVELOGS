@@ -83,7 +83,7 @@ Overlay with a heart/like (depending on the platform) and arrow pointing below t
 - Closing Log Frame: "Hey you, thank you for watching! Be sure to check out other channels to discover more Helve AVR projects and dive into our reality". 
 - Post it notes with votes on story (#lowfihelvelogs)
 - Challenges of making 5 types posts in 5 minutes (spread, relevance)
-- at the end of the Helve Log display url helve.live which then transforms into logo of helve avr
+- at the end of Helve Log logo of helve avr then display url helve.live
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
