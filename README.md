@@ -50,7 +50,9 @@ A third pops up from the left (white triangle) with Brief Title of the scene, Lo
 
 Overlay with a heart/like (depending on the platform) and arrow pointing below the video content.
 
-YouTube Helve Logs can be shot with 360 camera and either given as such for VR consumption or limited to 180VR for that little bit of interaction.
+**360 video via VR**
+
+YouTube Helve Logs can be shot with 360 camera and either given as such for VR consumption or limited to 180VR for that little bit of interaction. Also it would mean that the digital overlays on top would be appropriately embeded in the 3D space. Perhaps even a hack that would allow to make a overlays attached to the point of view of the audience (but that would require a custom video playback engine and probably would limit the distribution only to Helve AVR website).
 
 **Ideas**
 - vlogs fisheye/tracking vibe/broadcast/uplink established -- projects and narratives cinematic.
