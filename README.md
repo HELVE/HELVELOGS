@@ -50,6 +50,8 @@ A third pops up from the left (white triangle) with Brief Title of the scene, Lo
 
 Overlay with a heart/like (depending on the platform) and arrow pointing below the video content.
 
+YouTube Helve Logs can be shot with 360 camera and either given as such for VR consumption or limited to 180VR for that little bit of interaction.
+
 **Ideas**
 - vlogs fisheye/tracking vibe/broadcast/uplink established -- projects and narratives cinematic.
 - sequence starts with a date "/// 2019" as if it was a flashback.
