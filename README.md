@@ -114,6 +114,10 @@ Seasons correspond to a sequence of projects. Helve AVR is the behind the scenes
 NEWSLETTER ACCEPTANCE
 
 /// ACCESS GRANTED_
+Access granted for user_ X
+Please remain motionless while your device's camera scans your retinas.
+
+- Exclusive Prototype Preview
 
 **ANALYSIS OF SEB.SPC VIDS**
 https://www.instagram.com/seb.spc/
