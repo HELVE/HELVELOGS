@@ -109,6 +109,12 @@ Seasons correspond to a sequence of projects. Helve AVR is the behind the scenes
 
 - Kannibal Wear is a clothing brand that encourages to 'cannibalize' other brands and modify everything yourself. Has real foundations but contains a more subtle fiction. More focus on the product rather than the story. 
 
+---
+
+NEWSLETTER ACCEPTANCE
+
+/// ACCESS GRANTED_
+
 **ANALYSIS OF SEB.SPC VIDS**
 https://www.instagram.com/seb.spc/
 - usage of personal quotes / inspirational - life, career, path, visualization, friendships, relationships
