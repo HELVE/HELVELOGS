@@ -113,6 +113,8 @@ Seasons correspond to a sequence of projects. Helve AVR is the behind the scenes
 
 NEWSLETTER ACCEPTANCE
 
+- newsletter e-mail username title: MOTHNODE | LIVE CREATIVE OPS - HELVE AVR (personal approach in the e-mails - writing as Operative not as a nameless/named brand)
+
 /// ACCESS GRANTED_
 Access granted for user_ X
 Please remain motionless while your device's camera scans your retinas.
