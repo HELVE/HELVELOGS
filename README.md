@@ -50,6 +50,13 @@ A third pops up from the left (white triangle) with Brief Title of the scene, Lo
 
 Overlay with a heart/like (depending on the platform) and arrow pointing below the video content.
 
+**Host a show to gain authority platform**
+
+Host a show to talk about creativity and creative industry. Information value and entertainment value.
+- people respond a lot better when being asked to being on a show (playing on the fame prospect)
+- then cut the footage with snippets for socials (LinkedIn) and run ads against people, brands, companies you want to target
+- something smart coming from a guest placed on your brands profile creates a mental connection and value attachment.
+
 **360 video via VR**
 
 YouTube Helve Logs can be shot with 360 camera and either given as such for VR consumption or limited to 180VR for that little bit of interaction. Also it would mean that the digital overlays on top would be appropriately embeded in the 3D space. Perhaps even a hack that would allow to make a overlays attached to the point of view of the audience (but that would require a custom video playback engine and probably would limit the distribution only to Helve AVR website).
