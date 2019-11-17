@@ -56,6 +56,7 @@ Host a show to talk about creativity and creative industry. Information value an
 - people respond a lot better when being asked to being on a show (playing on the fame prospect)
 - then cut the footage with snippets for socials (LinkedIn) and run ads against people, brands, companies you want to target
 - something smart coming from a guest placed on your brands profile creates a mental connection and value attachment.
+- no call to action necessary
 
 **360 video via VR**
 
