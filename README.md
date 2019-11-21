@@ -15,6 +15,12 @@ INTENT: Document processes and day to day life at Helve AVR. Inspire people and 
 CONTEXT: Budding creative agency. Starting from scratch. Underdog.
 CONTENT: Endless creative projects. Livestreams, peak into the processes. Help sessions?
 
+![](content_distribution_overview.png)
+
+These can be applied to art/interactive projects (not only Hitech Crime releases as seen below).
+![](instagram_9post_1.png)
+![](instagram_9post_2.png)
+
 ## Mixer/Twitch/YouTube/Facebook Stream
 
 - frame done
