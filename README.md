@@ -27,6 +27,9 @@ These can be applied to art/interactive projects (not only Hitech Crime releases
 
 ## Video intro for Instagram and vlogs [Helve Logs]
 Tracking, identity, privacy theme.
+
+![](helve_logs_instastory_ideas.JPG)
+
 ```
 USE BINAURAL SOUNDS IN BG_
 ```
